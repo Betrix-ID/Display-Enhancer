@@ -2,11 +2,11 @@
 
 > [!Notes]
 > description 📝:
-> Script shell C++ Ini Saya Buat Untuk Menyesuaikan Windo Display Sesuai Opis Yang di pilih
+> - Script shell C++ Ini Saya Buat Untuk Menyesuaikan Windo Display Sesuai Opis Yang di pilih
 <hr/>
 
 > [!information]
-> Feature 📌 :
+> Feature 📌:
 > 1. Faster performance: Optimasi resolusi dan density meningkatkan kecepatan UI.
 > 2. Stabilitas sistem lebih baik: Menonaktifkan logging yang tidak perlu mengurangi gangguan sistem.
 > 3. Efisiensi resource meningkat: Menyesuaikan penggunaan CPU dan GPU sesuai kebutuhan layar.
@@ -15,14 +15,12 @@
 > Effect may vary depending on the device and system version.
 <hr/>
 
-> [!TIP]
-> Installation 💡:
+> [!💡TIP]
 > Pastikan kalian sudah memahami bescik Nonroot
 > kalian harus Mengistall adb shell yang bisa diguakan Nonroot
 <hr/>
 
-> [!WARNING]
-> warning ⚠️ :
+> [!⚠️WARNING]
 > Kalo penggun mau meyertakan script saya di dalam
 > Module mohon sertakain creadit kalo tidak di sertakan
 > creadit saya tidak bertanggung jawab atas
