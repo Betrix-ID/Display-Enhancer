@@ -5,11 +5,11 @@
 <hr/>
 
 > [!Feature]
-> 1. Faster performance: Optimasi resolusi dan density meningkatkan kecepatan UI.
-> 2. Stabilitas sistem lebih baik: Menonaktifkan logging yang tidak perlu mengurangi gangguan sistem.
-> 3. Efisiensi resource meningkat: Menyesuaikan penggunaan CPU dan GPU sesuai kebutuhan layar.
-> 4. Smooth display experience: Tampilan lebih halus dan responsif di berbagai aplikasi.
-> 6. Longer battery life: Pengurangan beban latar belakang membantu menghemat daya.
+> 1. Faster performance: Optimasi resolusi dan density meningkatkan kecepatan UI
+> 2. Stabilitas sistem lebih baik: Menonaktifkan logging yang tidak perlu mengurangi gangguan sistem
+> 3. Efisiensi resource meningkat: Menyesuaikan penggunaan CPU dan GPU sesuai kebutuhan layar
+> 4. Smooth display experience: Tampilan lebih halus dan responsif di berbagai aplikasi
+> 6. Longer battery life: Pengurangan beban latar belakang membantu menghemat daya
 > Effect may vary depending on the device and system version.
 <hr/>
 
