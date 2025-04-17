@@ -1,12 +1,10 @@
 > ![git text](/Display/img/IFS.png)
 
 > [!Notes]
-> description :
 > - Script shell C++ Ini Saya Buat Untuk Menyesuaikan Windo Display Sesuai Opis Yang di pilih.
 <hr/>
 
-> [!information]
-> Feature :
+> [!Feature]
 > 1. Faster performance: Optimasi resolusi dan density meningkatkan kecepatan UI.
 > 2. Stabilitas sistem lebih baik: Menonaktifkan logging yang tidak perlu mengurangi gangguan sistem.
 > 3. Efisiensi resource meningkat: Menyesuaikan penggunaan CPU dan GPU sesuai kebutuhan layar.
