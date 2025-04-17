@@ -1,11 +1,13 @@
 > ![git text](/Display/img/IFS.png)
 
 > [!Notes]
+
 > description 📝:
 > - Script shell C++ Ini Saya Buat Untuk Menyesuaikan Windo Display Sesuai Opis Yang di pilih
 <hr/>
 
 > [!information]
+
 > Feature 📌:
 > 1. Faster performance: Optimasi resolusi dan density meningkatkan kecepatan UI.
 > 2. Stabilitas sistem lebih baik: Menonaktifkan logging yang tidak perlu mengurangi gangguan sistem.
@@ -16,11 +18,13 @@
 <hr/>
 
 > [!💡TIP]
+
 > Pastikan kalian sudah memahami bescik Nonroot
 > kalian harus Mengistall adb shell yang bisa diguakan Nonroot
 <hr/>
 
 > [!⚠️WARNING]
+
 > Kalo penggun mau meyertakan script saya di dalam
 > Module mohon sertakain creadit kalo tidak di sertakan
 > creadit saya tidak bertanggung jawab atas
