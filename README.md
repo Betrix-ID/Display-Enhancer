@@ -1,9 +1,8 @@
 > ![git text](/Display/img/IFS.png)
 
 > [!Notes]
-
 > description 📝:
-> - Script shell C++ Ini Saya Buat Untuk Menyesuaikan Windo Display Sesuai Opis Yang di pilih
+> - Script shell C++ Ini Saya Buat Untuk Menyesuaikan Windo Display Sesuai Opis Yang di pilih.
 <hr/>
 
 > [!information]
@@ -17,18 +16,16 @@
 > Effect may vary depending on the device and system version.
 <hr/>
 
-> [!💡TIP]
-
+> [!TIP]
 > Pastikan kalian sudah memahami bescik Nonroot
-> kalian harus Mengistall adb shell yang bisa diguakan Nonroot
+> kalian harus Mengistall adb shell yang bisa diguakan Nonroot.
 <hr/>
 
-> [!⚠️WARNING]
-
+> [!WARNING]
 > Kalo penggun mau meyertakan script saya di dalam
 > Module mohon sertakain creadit kalo tidak di sertakan
 > creadit saya tidak bertanggung jawab atas
-> script yang di pake pengguna dill
+> script yang di pake pengguna dill.
 <hr/>
 
 <div align="center">
