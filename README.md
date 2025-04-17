@@ -1,9 +1,8 @@
 > ![git text](/Display/img/IFS.png)
 
->[Notes]
-> description 📑:
-> Script shell C++ Ini Saya Buat Untuk Menyesuaikan Windo Display
-> Sesuai Opis Yang di pilih
+> [Notes]
+> description 📝:
+> Script shell C++ Ini Saya Buat Untuk Menyesuaikan Windo Display Sesuai Opis Yang di pilih
 <hr/>
 
 <div align="center">
