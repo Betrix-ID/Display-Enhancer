@@ -1,7 +1,7 @@
 > ![git text](/Display/img/IFS.png)
 
 >[Notes]
-> description
+> description 📑:
 > Script shell C++ Ini Saya Buat Untuk Menyesuaikan Windo Display
 > Sesuai Opis Yang di pilih
 <hr/>
